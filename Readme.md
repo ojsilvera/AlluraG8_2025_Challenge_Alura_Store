@@ -105,7 +105,7 @@ Su informe debe debe estar estructurado, con:
 Una vez que descargues el archivo base desde GitHub y lo subas a Google Colab, encontrarás un cuaderno ya preparado con
 las siguientes secciones:
 
-📂 Proyecto Alura Store estructura del notebook [Click Aqui](https://colab.research.google.com/github/ojsilvera/AlluraG8_2025_Challenge_Alura_Store/blob/main/AluraStoreLatam.ipynb)
+📂 Proyecto Alura Store estructura del notebook [Click Aqui](https://colab.research.google.com/github/ojsilvera/AlluraG8_2025_Challenge_Alura_Store/blob/main/AluraStoreLatam.ipynb)\
       ├── 🛠️ Importación de Datos (¡NO modificar!)\
       ├── 📊 Análisis de Facturación Total\
       ├── 📦 Análisis de Ventas por Categoría\
