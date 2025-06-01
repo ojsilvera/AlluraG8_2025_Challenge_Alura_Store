@@ -113,7 +113,7 @@ las siguientes secciones:
       ├── 📈 Productos Más y Menos Vendidos
       ├── 🚚 Promedio de Envío por Tienda
    📂 📊 Informe del proyecto
-      └── 🚚 Tus conclusiones [Insights report](/AlluraG8_2025_Challenge_Alura_Store/insightsReport.md)
+      └── 🚚 Tus conclusiones [Insights report](insightsReport.md)
 
 ---
 
