@@ -1,7 +1,14 @@
 # 📊 Desafío de Ciencia de Datos - Alura Store
 
 ¡Bienvenido al desafío **Alura Store**!
-Este reto está diseñado para simular un escenario real de análisis de datos aplicado al mundo de las ventas minoristas. Tu objetivo será ayudar al señor Juan a tomar una decisión estratégica sobre cuál de sus tiendas debe vender para invertir en un nuevo negocio.
+Este reto está diseñado para simular un escenario real de análisis de datos aplicado al mundo de las ventas minoristas. Tu
+objetivo será ayudar al señor Juan a tomar una decisión estratégica sobre cuál de sus tiendas debe vender para invertir
+en un nuevo negocio.
+
+Pregunta de negocio:
+
+ **Con on base en la data suministrada por el cliente y su respectivo analisis, cuál de sus tiendas debe vender para**
+ **invertir en un nuevo negocio**
 
 ---
 
@@ -96,9 +103,9 @@ Te deseamos mucho éxito en esta misión, ¡demuestra tus habilidades como anali
 
 ---
 
-### 👨‍🏫 Instructor
+### 👨‍🏫 Desarrollado por
 
-**Wilfredo Rojas**
-Instructor en Alura Latam
+**Oscar Julio Silvera Cruz**
+Analista de datos jr y estudiante de alura latam
 
 ---
