@@ -1,6 +1,7 @@
 # 📊 Desafío de Ciencia de Datos - Alura Store
 
-¡Bienvenido al desafío **Alura Store**!
+¡desafío **Alura Store**!
+
 Este reto está diseñado para simular un escenario real de análisis de datos aplicado al mundo de las ventas minoristas. Tu
 objetivo será ayudar al señor Juan a tomar una decisión estratégica sobre cuál de sus tiendas debe vender para invertir
 en un nuevo negocio.
@@ -51,6 +52,41 @@ Una vez finalizado el análisis, deberás crear un **informe dentro de Google Co
 
 Este informe será clave para tomar una **decisión estratégica**.
 
+### Reporte de hallazgos  Sr. juan
+
+Description del informe:
+
+Con base en los análisis realizados y los gráficos generados, es momento de sintetizar sus hallazgos en un informe final.
+
+Dentro de tu Colab, deberás redactar un texto explicando a qué tienda debe vender el Sr. Juan, teniendo en cuenta todos
+los factores analizados, como:
+
+    Los ingresos totales de las tiendas.
+
+    Las categorías de productos más y menos vendidas.
+
+    Las calificaciones promedio de los clientes por tienda.
+
+    Los productos más y menos vendidos.
+
+    El coste de envío promedio para cada tienda.
+
+En su informe, incluya:
+
+    Justificación su decisión, respaldada por el análisis y las visualizaciones que generó.
+
+    Explicar, de forma clara y objetiva, las razones por las que una tienda destaca (o no) en relación a las demás,
+
+    Considere las fortalezas y debilidades de cada una.
+
+Su informe debe debe estar estructurado, con:
+
+    Introducción que explique el propósito del análisis.
+
+    Desarrollo con la presentación de datos y gráficos.
+
+    Conclusión recomendando la tienda que se debe vender y justificando la elección.
+
 ---
 
 ## 🧰 Herramientas Recomendadas
@@ -64,19 +100,20 @@ Este informe será clave para tomar una **decisión estratégica**.
 
 ---
 
-## 📁 Estructura del Proyecto en el notebook de google colab
+## 📁 Estructura del Proyecto oogle colab e informe de hallazgos
 
 Una vez que descargues el archivo base desde GitHub y lo subas a Google Colab, encontrarás un cuaderno ya preparado con
 las siguientes secciones:
 
-📂 Proyecto Alura Store estructura del notebook
+📂 Proyecto Alura Store estructura del notebook [Click Aqui]([https://](https://colab.research.google.com/github/ojsilvera/AlluraG8_2025_Challenge_Alura_Store/blob/main/AluraStoreLatam.ipynb))
 ├── 🛠️ Importación de Datos (¡NO modificar!)
 ├── 📊 Análisis de Facturación Total
 ├── 📦 Análisis de Ventas por Categoría
 ├── ⭐ Clasificación Promedio de las Tiendas
 ├── 📈 Productos Más y Menos Vendidos
-└── 🚚 Promedio de Envío por Tienda
-└── 🚚 Tus conclusiones
+├── 🚚 Promedio de Envío por Tienda
+📂 📊 Informe del proyecto
+└── 🚚 Tus conclusiones [Insights report](/AlluraG8_2025_Challenge_Alura_Store/insightsReport.md)
 
 ---
 
