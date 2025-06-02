@@ -142,7 +142,8 @@ Te deseamos mucho éxito en esta misión, ¡demuestra tus habilidades como anali
 
 ### 👨‍🏫 Desarrollado por
 
-**Oscar Julio Silvera Cruz**
-Analista de datos jr y estudiante de alura latam
+**Oscar Julio Silvera Cruz**\
+Analista de datos jr\
+Estudiante de alura latam
 
 ---
