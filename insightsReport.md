@@ -1,6 +1,6 @@
 # Reporte de hallazgos
 
-## Description del informe:
+## Description del informe
 
 Con base en los análisis realizados y los gráficos generados, es momento de sintetizar sus hallazgos en un informe final.
 

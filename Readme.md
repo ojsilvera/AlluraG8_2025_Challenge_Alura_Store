@@ -133,7 +133,7 @@ Utilizaremos un tablero Trello especialmente diseñado para ayudarte a organizar
 
 ---
 
-## 🚀 ¡Manos a la Obra!
+## 🚀 ¡Manos a la Obra
 
 Este desafío es una gran oportunidad para aplicar todo lo aprendido en Python y análisis de datos en un contexto real.
 Te deseamos mucho éxito en esta misión, ¡demuestra tus habilidades como analista de datos!
