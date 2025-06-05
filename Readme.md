@@ -63,7 +63,7 @@ los factores analizados, como:
 
     Los ingresos totales de las tiendas.
 
-    Las categorías de productos más y menos vendidas.
+    Ventas por categoría
 
     Las calificaciones promedio de los clientes por tienda.
 
