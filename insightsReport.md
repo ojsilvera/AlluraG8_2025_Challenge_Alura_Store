@@ -47,7 +47,7 @@ Inicialmente se mmuestra en la grafica de salida del analisis de facturacion que
 aunque no es un dato total es un dato para tener en cuenta ya que el analisis de facturacion la ubica por debajo de las demas tiendas de la compañia, con lo cual
 podemos empezar a inferir que estamos teniendo menos ventas y gastos constantes con respectoa las demas tiendas
 
-![Ingresos por tienda](./assets/img/vtasXcategoria.png)
+![Ingresos por tienda](./assets/img/ingresosXtienda.png)
 
 En el caso de los costes de envios asociados la tienda numero 4 presenta los menores costos, pero puede deberse a sus bajas ventas y la tienda numero 1, presenta los mayores
 costos pero tambien las mayores ventas en facturacion asi que aun no es determinante estas dos variables para la toma de una decision.
