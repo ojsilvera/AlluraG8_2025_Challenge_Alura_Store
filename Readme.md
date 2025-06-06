@@ -11,6 +11,11 @@ Pregunta de negocio:
  **Con on base en la data suministrada por el cliente y su respectivo analisis, cuál de sus tiendas debe vender para**
  **invertir en un nuevo negocio**
 
+📂 Proyecto Alura Store estructura del notebook [Click Aqui](https://colab.research.google.com/github/ojsilvera/AlluraG8_2025_Challenge_Alura_Store/blob/main/AluraStoreLatam.ipynb)\
+ |
+📂 📊 Informe del proyecto\
+      └── 🚚 Tus conclusiones [Insights report](insightsReport.md)
+
 ---
 
 ## 🎯 Objetivo del Proyecto
